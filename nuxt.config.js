@@ -49,6 +49,7 @@ module.exports = {
 
   /** Server options */
   server: {
-    port: 7000
+    port: 7000,
+    host: '0.0.0.0'
   }
 }
