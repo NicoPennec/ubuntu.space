@@ -12,12 +12,12 @@
       <div class="links">
         <a
           href="/downloads"
-          target="_blank"
           class="button--green"
         >Downloads</a>
         <a
           href="https://github.com/vvmspace/ubuntu.space"
           target="_blank"
+          rel="nofollow"
           class="button--grey"
         >GitHub</a>
       </div>
@@ -31,6 +31,9 @@ import Logo from '~/components/Logo.vue'
 export default {
   components: {
     Logo
+  },
+  head: {
+    title: 'Ubuntu 20.04 release date: April 2020 | ubuntu.space'
   }
 }
 </script>
