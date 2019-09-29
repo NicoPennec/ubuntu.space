@@ -37,6 +37,7 @@
       <p>Alpha version will be publish in few weeks after 19.10 release.</p>
       <div><b>Download xUbuntu 20.04 LTS Alpha/Beta torrent:</b> as soon as possible</div>
 
+      <div class="description"><a href="/">ubuntu.space</a><br />site is not official</div>
 
     </div>
   </div>
