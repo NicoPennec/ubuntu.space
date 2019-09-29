@@ -16,8 +16,8 @@
       <p>Official desktop release. Most installed.</p>
       <div><b>Download Ubuntu 18.04 Desktop LTS torrent:</b> <a href="/torrents/ubuntu-18.04.3-desktop-amd64.iso.torrent">ubuntu-18.04.3-desktop-amd64.iso.torrent</a></div>
       <h2 class="subtitle">Ubuntu 18.04 Server LTS</h2>
-      <div><b>Download Ubuntu 18.04 Server LTS torrent:</b> <a href="/torrents/ubuntu-18.04.3-live-server-amd64.iso.torrent">ubuntu-18.04.3-live-server-amd64.iso.torrent</a></div>
       <p>Official server release. Most installed.</p>
+      <div><b>Download Ubuntu 18.04 Server LTS torrent:</b> <a href="/torrents/ubuntu-18.04.3-live-server-amd64.iso.torrent">ubuntu-18.04.3-live-server-amd64.iso.torrent</a></div>
       <h2 class="subtitle">xUbuntu 19.04 (Latest)</h2>
       <p>It is not LTS version. Install for your own risk.</p>
       <div><b>Download xUbuntu 19.04 torrent:</b> <a href="/torrents/xubuntu-19.04-desktop-amd64.iso.torrent">xubuntu-19.04-desktop-amd64.iso.torrent</a></div>
