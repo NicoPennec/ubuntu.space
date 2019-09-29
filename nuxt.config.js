@@ -45,5 +45,10 @@ module.exports = {
     */
     extend(config, ctx) {
     }
+  },
+
+  /** Server options */
+  server: {
+    port: 7000
   }
 }
