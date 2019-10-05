@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container screen">
     <div>
       <logo />
       <h1 class="title">
@@ -41,7 +41,6 @@ export default {
 <style>
 .container {
   margin: 0 auto;
-  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;

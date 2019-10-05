@@ -1,16 +1,15 @@
 <template>
   <div class="container">
     <div>
-      <!-- <logo /> -->
       <h1 class="title">
         Download Ubuntu 18.04 LTS and other versions
       </h1>
       <div>LTS means long term support. Downloading LTS versions is mostly recomended.</div> 
-      <h2 class="subtitle">xUbuntu 18.04 LTS</h2>
-      <p><b>xUbuntu</b> is official Ubuntu release with light weight XFCE interface in the box.<br />Excellent for low performance machines (Intel Atom, 1 Gb RAM for example).<br /><span class="authors">Authors choose.</span></p>
+      <h2 class="subtitle">xUbuntu 18.04 LTS <span class="authors">Authors choose</span></h2>
+      <p><b>xUbuntu</b> is official Ubuntu release with light weight XFCE interface in the box. Excellent for low performance machines (Laptop with Intel Atom, 1 Gb RAM for example).</p>
       <div><b>Download xUbuntu 18.04 LTS torrent:</b> <a href="/torrents/xubuntu-18.04.3-desktop-amd64.iso.torrent">xubuntu-18.04.3-desktop-amd64.iso.torrent</a></div>
       <h2 class="subtitle">xUbuntu 18.04 LTS (32-bit)</h2>
-      <p>Ubuntu 18.04 Desktop doesn't official supports 32-bit platforms because of Gnome 3 etc.<br />xUbuntu supports in well.</p>
+      <p>Ubuntu 18.04 Desktop doesn't official supports 32-bit platforms because of Gnome 3 etc. <b>xUbuntu 18.04</b> supports it well.</p>
       <div><b>Download xUbuntu 18.04 LTS (32-bit) torrent:</b> <a href="/torrents/xubuntu-18.04.3-desktop-i386.iso.torrent">xubuntu-18.04.3-desktop-i386.iso.torrent</a></div>
       <h2 class="subtitle">Ubuntu 18.04 Desktop LTS</h2>
       <p>Official desktop release. Most installed.</p>
@@ -36,9 +35,6 @@
       <h2 class="subtitle">Ubuntu 20.04 Beta/Alpha</h2>
       <p>Alpha version will be publish in few weeks after 19.10 release.</p>
       <div><b>Download xUbuntu 20.04 LTS Alpha/Beta torrent:</b> as soon as possible</div>
-
-      <div class="description"><a href="/" title="Ubuntu 20.04 release date: April 2020">ubuntu.space</a><br />site is not official</div>
-
     </div>
   </div>
 </template>
@@ -57,15 +53,6 @@ export default {
 </script>
 
 <style>
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
 .title {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -78,7 +65,7 @@ export default {
 
 .subtitle {
   font-weight: 300;
-  font-size: 48px;
+  font-size: 36px;
   color: #526488;
   word-spacing: 5px;
   padding-bottom: 15px;
