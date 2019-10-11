@@ -1,3 +1,5 @@
+const fs = require('fs')
+const path = require('path')
 
 module.exports = {
   mode: 'universal',
@@ -38,6 +40,10 @@ module.exports = {
     '@nuxtjs/sitemap',
     '@nuxtjs/markdownit',
   ],
+  sitemap: {
+    routes: () =>
+      fs.readdirSync('md').map(file => path.parse(file).name)
+  },
   /*
   ** Build configuration
   */
